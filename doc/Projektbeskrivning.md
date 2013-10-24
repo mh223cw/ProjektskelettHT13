@@ -4,7 +4,7 @@ Projektmedlemmar:
 
 [Körbar version av projektet](http://tstjostudent.github.io/Projektet)
 
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
+*Kommer snart*
 
 ## Projektbeskrivning
 *Jag har fått en förfrågan av mina tidigare arbetsgivare om jag kan hjälpa dem att bygga en webbshop. De kommer börja sälja mobiltelefoner och mobiltillbehör på nätet i början av nästa år och har bett mig designa en ny modern butik. De har önskat en responsiv sida som ser lika bra ut oavsett om användaren besöker sajten med sin dator, surfplatta eller mobiltelefon. Butiken ska drivas med någon av e-handelsplattformarna Prestashop eller Magento, och jag kommer skapa en layout som sedan kommer implementeras i någon av dessa.*
