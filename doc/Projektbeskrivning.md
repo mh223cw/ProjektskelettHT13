@@ -1,7 +1,6 @@
-
-# Projektnamn här
+# Concept Store Mobile
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[tstjostudent](https://github.com/mh223cw)
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 
