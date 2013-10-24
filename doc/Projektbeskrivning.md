@@ -23,10 +23,10 @@ Projektmedlemmar:
 * jQuery.js (javascript-bibliotek som gör det enkelt skapa effekter, animationer, hantera händelser och dra nytta av mängder med plugins som sliders etc.)
 
 ## Begränsningar
-*På produktkatalogsidan där kunden kan filtrera produkter genom att välja t.ex färg, tillverkare, operativsystem, storlek etc. genom att bocka för olika checkboxes eller välja ett alternativ ur en rullgardinslista så kommer jag inte implementera någon funktionalitet. Detta sköts med jQuery UI i den färdiga webshoppen. Jag kommer heller inte implementera “lägg-i-kundvagns-effekter” eller liknande utan helt enkelt koncentrera mig på en professionell layout.*
+*På produktkatalogsidan där kunden kan filtrera produkter genom att exempelvis välja färg, storlek, tillverkare, operativsystem etc. genom att bocka för olika checkboxes eller välja ett alternativ i en rullgardinslista så kommer jag inte implementera någon funktionalitet. Detta sköts med jQuery UI i den färdiga webshoppen. Jag kommer heller inte implementera “lägg-i-kundvagns-effekter" eller liknande utan helt enkelt koncentrera mig på en professionell layout.*
 
 ## Förstudier
-*Tillsammans med mina arbetsgivare diskuterade jag om själva utformningen av sidan och vi bestämde oss för att testa en “fullbreddssida”, eller i alla fall att vissa delar av sidan kommer att ha 100% width. Vi kollade runt på flertalet svenska nätbutiker och märkte att de flesta kör 960/980-grid vilket känns lite tråkigt då skärmarna blir större och upplösningen högre. Vi vill utnyttja den tomma ytan till att ha större produktbilder, tydliga rubriker och texter och mindre plotter.*
+*Tillsammans med mina arbetsgivare diskuterade jag om själva utformningen av sidan och vi bestämde oss för att testa en “fullbreddslayout”, eller i alla fall att vissa element av sidan kommer att ha 100% width. Vi kollade runt på flertalet svenska nätbutiker och märkte att de flesta kör 960/980-grid vilket känns lite tråkigt då skärmarna blir större och upplösningen högre. Vi vill utnyttja den tomma ytan till att ha större produktbilder, tydliga rubriker och texter och mindre plotter.*
 
 ## Tidsplanering
 
